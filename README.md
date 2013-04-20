@@ -1,0 +1,2 @@
+sequelize-dialect-akiban
+========================
