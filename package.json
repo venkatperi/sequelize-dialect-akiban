@@ -1,0 +1,8 @@
+{
+  "name": "sequelize-dialect-akiban",
+  "version": "0.1.0",
+  "description": "Sequelize dialect for Akiban",
+  "dependencies": {
+    "q": "~0.9.3"
+  }
+}
